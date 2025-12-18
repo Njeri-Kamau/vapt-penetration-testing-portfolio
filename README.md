@@ -18,4 +18,4 @@ These were done as part of my journey into **Vulnerability Assessment and Penetr
 I want to showcase real examples of vulnerabilities I’ve explored and documented.
 
 ---
-Built with ❤️ by [YourName]
+Built with ❤️ by Eunice
